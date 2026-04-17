@@ -56,7 +56,7 @@ This project represents the **MVP (Minimum Viable Product)**. The following arch
 
 1.  **Clone and open the repository**
       ```bash
-        git clone https://github.com/YOUR_USERNAME/fastapi-llm-poc.git
+        git clone https://github.com/rayyandemde/fastapi-llm-poc.git
         cd fastapi-llm-poc
       ```
 
